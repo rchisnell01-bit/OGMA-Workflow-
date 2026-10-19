@@ -76,6 +76,14 @@ flowchart TD
 
 Solo operators, small businesses, researchers, and developers who already use multiple AI tools and want more disciplined delegation without a complicated infrastructure project.
 
+## Seeking five independent testers
+
+Can you run OGMA with two AI chats? We're collecting **five independent reports** to see what actually works and what needs fixing. The test uses a fictional business, requires no coding or API keys, and involves manual copy/paste between chats.
+
+**[Try OGMA and report your results →](https://github.com/rchisnell01-bit/OGMA-Workflow-/issues/1)**
+
+Failures and confusing steps are welcome. Please don't share private data or claim cross-platform automation you haven't independently verified.
+
 ## Help improve it
 
 Try the demo, then open an **Issue** on the GitHub repository where you found this kit. Tell us which AI chats you used, what task you attempted, what actually worked, and what failed. **Do not post private customer data, credentials, or chat logs containing personal information.** See [CONTRIBUTING.md](CONTRIBUTING.md).
