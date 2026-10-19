@@ -1,0 +1,13 @@
+# Local and private material — do not publish
+.env
+.env.*
+!.env.example
+private/
+secrets/
+*.log
+*.local
+.DS_Store
+__pycache__/
+.cache/
+.idea/
+.vscode/
