@@ -14,6 +14,10 @@ This is an adaptable **operating procedure**, not a new application or a guarant
 
 **Count coordination as work.** A second agent is not automatically a quality improvement. Token costs, subscriptions, copying effort, and human rescue matter. Mark inaccessible numbers `UNKNOWN`, not zero.
 
+## Council screen on every question
+
+For each incoming task, consider whether real independent model review would change the decision. Screen silently and use the **smallest worthwhile team**. Direct answers remain the default for straightforward tasks. Use a *real*, source-grounded council for consequential decisions, adversarial research, difficult architecture/security work and explicit council requests **only if the external runtime and at least two genuinely distinct model providers are operational and permitted**. If unavailable, say so; never role-play independent model votes. Council conclusions cannot bypass the human's approval gates. See [the optional integration and activation status](llm-council.md).
+
 ## State vocabulary
 
 | State | Minimum evidence required |
