@@ -10,6 +10,12 @@ OGMA is a **free, model-neutral, copy-and-paste workflow** for coordinating work
 >
 > **What this is not:** An API orchestrator, a background-running agent, or an automatically connected team. In the starter version, **you manually copy tasks and results between chats**. Optional connected tools may help, but are not required or assumed.
 
+## Optional LLM Council for important questions
+
+OGMA now includes a **universal council screening rule**: assess every question for whether independent AI review would materially improve the decision, but don't launch multiple models for simple replies. For larger decisions, an optional integration with [The LLM Council](https://github.com/sherifkozman/the-llm-council) provides multi-model drafts, critique and synthesis when **installed and verified** on the actual host. This is an optional enhancement, not part of the manual starter or an automatic ChatGPT cross-provider connection.
+
+Read [the council integration and activation requirements](docs/llm-council.md) and the portable [OGMA council router skill](skills/ogma-council-router/SKILL.md). The existing manager, worker, approval, and verification rules remain authoritative.
+
 ## Try it in 5–10 minutes
 
 1. Open **Chat A**, your manager AI. Paste the entire [manager prompt](prompts/manager.md).
